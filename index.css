@@ -1,0 +1,66 @@
+.image1{
+    position: relative;
+    top: 20px;
+   
+}
+
+.block1{
+    width: 50%;
+    position: relative;
+    top: 40px;
+    float: left;
+    
+}
+
+.block2{
+    float: right;
+    width: 50%;
+    position: relative;
+    top: 40px;
+    
+}
+.ads{
+    position: relative;
+    top: 60px;
+}
+
+.endmain{
+    background-color:#32383E ;
+    position: relative;
+    top: 70px;
+    width: 100%;
+    height: auto;
+}
+
+.sinfo{
+    display: flex;
+    justify-content: space-around;
+}
+
+.endtext{
+    text-align: center;
+
+}
+
+.last{
+    
+    width: 100%;
+    height: auto;
+    position: relative;
+    top: 60px;
+    display: flex;
+    justify-content: space-around;
+}
+.last1{
+    
+    float: left;
+}
+
+.last2{
+   
+    float: right;
+}
+
+.call{
+    color: red;
+}
